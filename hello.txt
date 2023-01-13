@@ -3,3 +3,4 @@ hello git!
 hello git!
 hello git!
  by slave
+hello git! slave test
